@@ -41,5 +41,8 @@ Dù có một số hạn chế về công cụ và môi trường triển khai, 
 - **njRAT, TheFatRat, HTTP RAT**: Tạo mã độc Trojan và điều khiển từ xa
 
 ---
+## 🎥 Video Hướng Dẫn Thực Hành
+- Để có cái nhìn trực quan hơn về các bước thực hiện trong từng bài lab, nhóm đã có quay lại một số video mô phỏng tiêu biểu cho từng module tương ứng, giúp minh hoạ trực quan hơn về cách thức tấn công/phòng thủ và bảo mật được thiết kế trong khuôn khổ môn học. Từ đó giúp ta có thể phát triển tư duy về bảo mật và phòng chống tấn công mạng trong môi trường công nghệ số đầy biến động như hiện nay.
 
-📌 *Mọi góp ý, cải tiến hoặc chia sẻ thêm nội dung đều được hoan nghênh!*
+[Link đến Google Drive chứa video thực hành](https://drive.google.com/drive/folders/14tDxs8aYEtjMSz9Jk3dBsDjtzUrNsbmL?usp=sharing)
+
