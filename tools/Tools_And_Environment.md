@@ -42,5 +42,7 @@
 - **BetterCAP**: Framework tấn công MITM, thực hiện SSLStrip để hạ cấp kết nối từ HTTPS xuống HTTP.
 
 ---
+Bạn có thể tham khảo một số công cụ được cài đặt thông qua đường dẫn:
+[Đường dẫn liên quan đến các công cụ sử dụng](https://fireshark.in/blog/certified-ethical-hacker-version-13-cehv13-tools/)
 
 📌 *Lưu ý: Một số công cụ có thể đã lỗi thời, khó cài đặt, hoặc không còn hoạt động hiệu quả trong môi trường mạng hiện đại.*
